@@ -1,1 +1,1 @@
-# boilerplate-infrastructure
+# terragrunt-multiaccount-structure
